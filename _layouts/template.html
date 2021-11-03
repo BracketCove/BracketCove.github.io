@@ -44,9 +44,11 @@
       <div id="header">
         <nav>
           <ul>
+              {% raw %}
             {% for page in sites.pages %}
                 <li class="fork"><a href={{ page.filename }} >{{ page.title }}</a></li>
             {% endfor %}
+            {% endraw %}
           </ul>
         </nav>
       </div><!-- end header -->
