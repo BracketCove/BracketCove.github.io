@@ -4,6 +4,8 @@ permalink: /articles/
 title: Articles and Publications
 ---
 
+Selected articles and publications by Ryan Michael Kay.
+
 ### Smashing Magazine:
 
 [**Mastering OOP: A Practical Guide To Inheritance, Interfaces, And Abstract Classes**](https://www.smashingmagazine.com/2019/11/guide-oop-inheritance-interfaces-abstract-classes/)
@@ -25,3 +27,11 @@ title: Articles and Publications
 
 ### Medium
 
+* [Android Tutorial: Model-View-ViewModel Awkwardness](https://rkay301.medium.com/mvvm-on-android-kinda-awkward-tbh-8db78a88f056)
+* [Dependency Injection: What? Why? How?](https://rkay301.medium.com/dependency-injection-what-why-how-9d5e059e034e)
+* [Programming Fundamentals Part One: What Is A Program?](https://rkay301.medium.com/programming-fundamentals-part-one-what-is-a-program-6e6639aedc58)
+* [Programming Fundamentals Part Two: The Problem Domain (How To Design A Program/Application)](https://rkay301.medium.com/programming-fundamentals-part-two-the-problem-domain-how-to-design-a-program-application-4faf0a5753f8)
+* [Programming Fundamentals Part 3: Storing Information](https://rkay301.medium.com/programming-fundamentals-part-3-storing-information-d450c9cb5fe0)
+* [Programming Fundamentals Part 4: Logic And Errors](https://rkay301.medium.com/programming-fundamentals-part-4-logic-and-errors-96f818e2e9f6)
+* [Programming Fundamentals Part 5: Separation of Concerns (Software Architecture)](https://rkay301.medium.com/programming-fundamentals-part-5-separation-of-concerns-software-architecture-f04a900a7c50)
+* [Programming Fundamentals Part 6: Proving Programs With Tests (TDD + Simple Examples)](https://rkay301.medium.com/programming-fundamentals-part-6-proving-programs-with-tests-tdd-simple-examples-c501489a4723)
