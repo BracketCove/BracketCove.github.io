@@ -1,1 +1,39 @@
 theme: jekyll-theme-midnight
+title: Ryan Michael kay
+description: >
+Portfolio for software development, content creation, publications, and technical writing for Ryan Kay.
+twitter_username: rkay301
+github_username: BracketCove
+linkedin_username: ryan-kay-808388114
+medium_username: rkay301
+
+pagination:
+  enabled: true
+
+collections:
+  apps:
+    defaults: 
+        layout: applications
+    output: true
+    permalink: /apps/:path/    
+  courses:
+    defaults: 
+        layout: videos
+    output: true
+    permalink: /courses/:path/    
+  tutorials:
+    defaults: 
+        layout: videos
+    output: true
+    permalink: /tutorials/:path/
+  publications:
+    defaults: 
+        layout: articles
+    output: true
+    permalink: /publications/:path/
+
+plugins:
+  - jekyll-email-protect
+  - jekyll-sitemap
+  - jekyll-twitter-plugin
+
