@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Welcome to my personal portfolio. Here you will find a collection of my published and open source software applications, video courses, articles, and video tutorials.
+Welcome to my personal portfolio. Here you will find a collection of my published video courses, articles, and video tutorials.
 
 **Bio:** I'm a self-taught developer from the Gulf Islands of British Columbia, Canada. After a brief and uninpsiring two classes of programming in highschool, I set out to create and sell my own Android applications in the summer of 2014. Two years later, after being fed up with poor quality documentation and tutorials present for the platform, I decided to start creating my own educational content as well. 
 
