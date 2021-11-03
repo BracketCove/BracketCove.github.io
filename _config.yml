@@ -3,8 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Ryan Michael kay
-description: >
-Portfolio for software development, content creation, publications, and technical writing for Ryan Kay.
+description: Portfolio for software development, content creation, publications, and technical writing for Ryan Kay.
 twitter_username: rkay301
 github_username: BracketCove
 linkedin_username: ryan-kay-808388114
