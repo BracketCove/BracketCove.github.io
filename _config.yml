@@ -3,7 +3,7 @@
 title: Ryan Michael Kay
 description: Personal Portfolio
 
-baseurl: /bracketcove.github.io #name of GitHub repository
+baseurl: "/"" #name of GitHub repository
 
 highlighter: rouge
 markdown: kramdown
