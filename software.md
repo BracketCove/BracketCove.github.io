@@ -9,12 +9,12 @@ title: Software By Ryan Kay
 [**wiseWeather: Instant Weather App](https://github.com/BracketCove/wiseweather)
 Note: Currently in review for publishing to Google Play
 
-<img src="/images/day_snowfall.png" alt="wiseWeather UI Example" width="270" height="480"/>
+<img src="https://bracketcove.github.io/assets/images/day_snowfall.png" alt="wiseWeather UI Example" width="270" height="480"/>
 
 [**Postrainer: Posture Correction App**](https://play.google.com/store/apps/details?id=com.bracketcove.postrainer)
 PosTrainer is an open source application which is designed to help desk jockeys like myself manage, and eventually reverse the deleterious effects of spending endless hours a day in front of a computer. It contains a notification based reminder system for user defined custom reminders, and some detailed instructions for exercises and stretches which I have found to be effective in my own posture management regime. 
 
-<img src="/images/pos_screen_reminders.jpg" alt="PosTrainer UI Example" width="270" height="480"/>
+<img src="https://bracketcove.github.io/assets/images/pos_screen_reminders.jpg" alt="PosTrainer UI Example" width="270" height="480"/>
 
 
 [**Graph Sudoku: Sudoku App Powered by Graph DSA**](https://play.google.com/store/apps/details?id=com.bracketcove.graphsudoku&hl=en_CA&gl=US)
