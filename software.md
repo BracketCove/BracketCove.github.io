@@ -4,7 +4,7 @@ permalink: /software/
 title: Software By Ryan Kay
 ---
 
-####Google Play
+### Software
 
 [**wiseWeather: Instant Weather App**](https://github.com/BracketCove/wiseweather)
 Note: Currently in review for publishing to Google Play
