@@ -6,7 +6,7 @@ title: Software By Ryan Kay
 
 ### Software
 
-[**wiseWeather: Instant Weather App**](https://github.com/BracketCove/wiseweather)
+[**wiseWeather: Instant Weather App**](https://play.google.com/store/apps/details?id=com.bracketcove.wiseweather)
 Note: Currently in review for publishing to Google Play
 wiseWeather is a simple application designed to provide convenient one touch access to current weather conditions. It does this by accessing a device's current coarse location via the Fused Location Client. The UI and Animations are created using Jetpack Compose; the official new framework for Android UI.
 
