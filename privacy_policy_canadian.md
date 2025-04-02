@@ -73,7 +73,7 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
+If you have questions or concerns about this Privacy Policy, or to submit a data deletion request, please contact us at:
 - Email: bracket.cove@gmail.com
 
 Thank you for using the Is it Canadian App!
